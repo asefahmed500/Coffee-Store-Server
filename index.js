@@ -10,7 +10,6 @@ const port = process.env.PORT || 5000;
 // Array of allowed origins
 const allowedOrigins = [
     'http://localhost:5173',
-    'https://coffee-store-server-d2rhz73qg-asef-ahmed-s-projects.vercel.app',
     'https://coffee-store-b5718.web.app',
     'https://coffee-store-b5718.firebaseapp.com'
 ];
